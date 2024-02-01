@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM debian:12
 
 LABEL maintainer="ZeroC0D3 Team<zeroc0d3.team@gmail.com>"
 
