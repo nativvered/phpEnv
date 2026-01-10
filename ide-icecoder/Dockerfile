@@ -1,4 +1,4 @@
-FROM php:alpine
+FROM php:8.5.2RC1-cli-alpine3.23
 
 LABEL maintainer="ahkui <ahkui@outlook.com>"
 
